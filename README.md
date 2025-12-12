@@ -1,25 +1,20 @@
 # Portafolio – Soporte Técnico Jr | Redes
 
-Este repositorio contiene proyectos prácticos orientados a soporte técnico y redes,
-documentados de forma clara y progresiva.
-
-Los proyectos están enfocados en la resolución de problemas comunes,
-el entendimiento del funcionamiento de las redes
-y la correcta documentación técnica.
+Este portafolio reúne proyectos y prácticas orientadas a soporte técnico, desarrolladas de forma progresiva explicaciones escritas y evidencia visual. 
+El objetivo es demostrar mi razonamiento técnico, el proceso de diagnóstico y la correcta documentación de escenarios comunes en entornos empresariales.
 
 ## Qué vas a encontrar en este portafolio
 
-- Redes LAN
-- Direccionamiento IPv4
-- Modelo OSI aplicado a troubleshooting
-- Comunicación entre dispositivos
-- Documentación paso a paso con evidencia visual
+- Topologías de red y prácticas con Cisco Packet Tracer
+- Casos de troubleshooting simulados (red y sistema)
+- Diagnóstico y resolución de problemas comunes
+- Creación y configuración de entornos virtuales
+- Prácticas de soporte remoto (AnyDesk, TeamViewer)
+- Procedimientos técnicos documentados (impresoras, configuración, pruebas)
 
-## Proyectos
+## Herramientas y tecnologías utilizadas
 
-- Proyecto 01 – Comunicación LAN con Router (Capa 2)
-- Proyecto 02 – Red LAN con Subredes
-- Proyecto 03 – Comunicación entre redes (Enrutamiento)
-
-## Herramientas utilizadas
 - Cisco Packet Tracer
+- VMware Workstation
+- Sistemas operativos Windows y Linux
+- Modelo OSI aplicado a troubleshooting y redes
