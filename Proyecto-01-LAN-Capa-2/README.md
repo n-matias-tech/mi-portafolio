@@ -11,7 +11,7 @@ La interconexión entre dispositivos se realizó mediante cableado Ethernet de c
 ## Configuración de red
 <img width="1339" height="712" alt="Red LAN 2" src="https://github.com/user-attachments/assets/a6040e5f-e88d-491b-a598-e10750f1fb5e" />
 En este ejemplo se utilizó configuración IPv4 manual con fines demostrativos, para evidenciar el entendimiento del direccionamiento y los parámetros de red. (Ignorar IPv6, no es relevante)
-En un entorno laboral, lo recomendado es el uso de DHCP para minimizar errores de configuración.
+En un entorno empresarial, lo recomendado es el uso de DHCP para minimizar errores de configuración.
 
 ## Prueba de conectividad
 <img width="1590" height="851" alt="Red LAN 3" src="https://github.com/user-attachments/assets/f851d760-0fc4-4620-b9a4-2c1149d067ee" />
