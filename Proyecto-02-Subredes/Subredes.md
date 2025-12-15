@@ -19,7 +19,7 @@ Nuevamente, asigné la configuración de red de manera manual a cada dispositivo
 En esta última, se ve como la PC N° 10 de la red: 192.168.1.0 envía una trama a la PC N° 13 de la red contraria y ambas establecen una comunicación correcta y estable. 
 
 ## Final
-Con estos ejemplos busco demostrar que, más allá de utilizar subnetting para administrar mejor las direcciones, también se aplica el enrutamiento entre ambas redes gracias a la configuración de las interfaces del router. Si no fuera por ello, no habría comunicación entre redes distintas.
+Con estos ejemplos, busco demostrar que más allá de utilizar subnetting para administrar mejor las direcciones, también se aplica el enrutamiento entre ambas redes gracias a la configuración de las interfaces del router. Si no fuera por ello, no habría comunicación entre redes distintas.
 
 ## Conceptos aplicados
 - Modelo OSI - Capa de enlace y capa de red.
