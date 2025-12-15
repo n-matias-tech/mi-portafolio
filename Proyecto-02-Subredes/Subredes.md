@@ -10,7 +10,7 @@ En cada una, le asigné su IP de red, broadcast y rango de direcciones para host
 
 ## Configuración de red
 <img width="1920" height="891" alt="image" src="https://github.com/user-attachments/assets/e6a7c7ca-ee18-4241-a276-60c423f10b39" />
-Nuevamente, asigné la configuración de red de manera manual a cada dispositivo con fines demostrativos. La diferencia en este proyecto, es que la "puerta de enlace" no es la misma para cada red dado que, cada una es diferente a la otra por más que partan de una misma IP, son subredes distintas. La comunicación depende de cada puerta de enlace.
+Nuevamente, asigné la configuración de red de manera manual a cada dispositivo con fines demostrativos. La diferencia en este proyecto es que la "puerta de enlace" no es la misma para cada red dado que, cada una es diferente a la otra por más que partan de una misma IP son subredes distintas. La comunicación depende de cada puerta de enlace.
 
 ## Enrutamiento y prueba de conectividad
 <img width="1912" height="900" alt="image" src="https://github.com/user-attachments/assets/0d4703fe-ccd8-4c21-bd71-cce805ea391f" />
