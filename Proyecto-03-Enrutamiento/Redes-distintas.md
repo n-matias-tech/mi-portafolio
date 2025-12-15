@@ -16,7 +16,7 @@ En esta imagen, aplica más de lo mismo. Es la configuración de red pero con la
 En esta imagen, se puede visualizar que la topología ahora tiene una nueva IP y esta corresponde al enlace entre ambos routers. Acá, configuré cada interfaz serial asignandole a cada router una IP 10.0.0.1 y 10.0.0.2 con máscara 255.255.255.252, correspondiente a la IP del enlace: 10.0.0.0 /30. La máscara que termina en ".252" define que hay 4 direcciones totales, una para broadcast, una para red y las otras dos para hosts, que son los enrutadores. 
 
 <img width="1920" height="897" alt="image" src="https://github.com/user-attachments/assets/c309339c-6bf7-4438-a37f-2a6079f10e41" />
-Luego apliqué la configuración para cada router, asignando las direcciones para las tablas de rutas. Mediante el CLI, apliqué la configuración correspondiente con la IP de la red a la cuál se debe comunicar, la máscara y la IP del serial por donde debe viajar las tramas. El comando utilizado es "ip route (IP de red contraria) (máscara) (IP del puerto serial contrario)".
+Luego apliqué la configuración para cada router, asignando las direcciones para las tablas de rutas. Mediante el CLI, apliqué la configuración correspondiente con la IP de la red a la cuál se debe comunicar, la máscara y la IP del serial por donde deben viajar las tramas. El comando utilizado es "ip route (IP de red contraria) (máscara) (IP del puerto serial contrario)".
 
 # Prueba de conectividad
 <img width="1916" height="930" alt="image" src="https://github.com/user-attachments/assets/5b8048ed-1fe1-4287-a75c-adba99640d4f" />
