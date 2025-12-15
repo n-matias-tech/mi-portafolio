@@ -4,7 +4,7 @@
 Demostración visual y explicada del enrutamiento estático entre dos redes distintas, simulando oficinas a distancia de una empresa.
 
 # Topología
-<img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/5fcef337-fc0d-457d-933e-14eabf1e181d" />
+<img width="1906" height="890" alt="image" src="https://github.com/user-attachments/assets/46bdee82-792f-4bb1-b534-cca837f97112" />
 La topología de esta red está compuesta de dos redes con distinta IP y dos routers que se interconectan con una conexión serial. Esto permite el enrutamiento entre departamentos, oficinas, sucursales, etc. 
 
 # Configuración de red
