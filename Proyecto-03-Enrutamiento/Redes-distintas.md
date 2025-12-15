@@ -8,7 +8,7 @@ Demostración visual y explicada del enrutamiento estático entre dos redes dist
 La topología de esta red está compuesta de dos redes con distinta IP y dos routers que se interconectan con una conexión serial. Esto permite el enrutamiento entre departamentos, oficinas, sucursales, etc. 
 
 # Configuración de red
-<img width="1906" height="890" alt="image" src="https://github.com/user-attachments/assets/4139b0c2-164f-4779-a5af-82018007eda3" />
+<img width="1920" height="865" alt="image" src="https://github.com/user-attachments/assets/c7689098-8836-4058-a0f4-33efdea1f7c5" />
 En esta imagen, aplica más de lo mismo. Es la configuración de red pero con la diferencia de que para cada una, se asigna un host nuevo y gateway correspondiente a cada enrutador. La "Sucursal A" tiene 192.168.1.0 /24 y la "Sucursal B" dispone de 192.168.2.1 /24.
 
 # Enrutamiento estático
